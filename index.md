@@ -1,4 +1,4 @@
-## Welcome to My Portfolio!
+## Alexander Lin's Portfolio
 
 This is essentially where I show off all the code projects that simply can't be printed on a resume.
 
