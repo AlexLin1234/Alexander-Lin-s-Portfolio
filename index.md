@@ -8,8 +8,13 @@ I've made quite a few games during my time in Uni and HS, and most of them are m
 
 
 # Ants vs Some Bees
+A tower defense game which is definitely not inspired by a game featuring botanical lifeforms and the undead.
+[Link]()
 # Roller Madness
+A game inovlving collecting coins with a rolling ball while avoiding falling bricks. Developed in Unity.
 # Box Shooter
+A game involving collecting coins with a gun, while avoiding bad coins. 
+
 
 - Bulleted
 - List
