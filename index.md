@@ -2,7 +2,7 @@
 
 This is essentially where I show off all the code projects that simply can't be printed on a resume.
 
-### Games
+# Games
 
 I've made quite a few games during my time in Uni and HS, and most of them are made in Unity: Here are a few:
 
@@ -21,7 +21,7 @@ A game involving collecting coins with a gun, while avoiding bad coins. Also Dev
 ![Image](https://drive.google.com/file/d/1pp0wpQgj39SRo-YovDE_ub5Ljc6mMMQn/view?usp=share_link)
 
 
-### Coding Projects
+# Coding Projects
 ## Enigma
 
 ## Gitlet
